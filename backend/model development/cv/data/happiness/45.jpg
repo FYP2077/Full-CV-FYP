@@ -1,0 +1,8 @@
+import os
+
+images_path = os.listdir()
+
+for i,image_path in enumerate(images_path):
+    name = image_path.split('.')[0]
+    type = image_path.split('.')[1]
+    os.rename(image_path, str(i) + name)
