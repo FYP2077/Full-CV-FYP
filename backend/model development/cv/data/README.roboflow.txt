@@ -1,8 +1,8 @@
 
-Emotion Detection - v1 2025-04-09 6:25pm
+Emotion Detection - v2 2025-04-11 8:02pm
 ==============================
 
-This dataset was exported via roboflow.com on April 10, 2025 at 1:27 PM GMT
+This dataset was exported via roboflow.com on April 11, 2025 at 4:11 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 809 images.
+The dataset includes 0 images.
 Anger are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
